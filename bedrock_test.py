@@ -31,6 +31,6 @@ def my_model(user_prompt):
 
 
 
-user_prompt = "What is Python?"
+user_prompt = "What is bedrock?"
 res = my_model(user_prompt)
 print(res['text'])
