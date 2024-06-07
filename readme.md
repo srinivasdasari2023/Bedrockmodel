@@ -1,2 +1,4 @@
 boto3
 langchain
+langchain-community
+bedrock
